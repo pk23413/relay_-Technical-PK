@@ -14,10 +14,10 @@ void setup() {
 
 void loop() {
 
-  digitalWrite(7,LOW);// turn relay ON
+  digitalWrite(12,LOW);// turn relay ON
   delay(5000);// turn on for 5 sec
 
-  digitalWrite(7, HIGH);// turn relay OFF
+  digitalWrite(12, HIGH);// turn relay OFF
  delay(5000);// turn of for 5 sec
 
 }
