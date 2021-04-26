@@ -3,7 +3,7 @@
 // This is non profitable Video            //
 // Code for relay control                  //
 // only for eductional porpuse             //
-// copyright granted for code              //
+// this code can be regenreted             //
 //Please Subscribe And do like the video   //
 /////////////////////////////////////////////
 
